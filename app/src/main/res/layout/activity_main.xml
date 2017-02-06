@@ -1,13 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_main"
-    android:layout_width="match_parent"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.educar.educar.MainActivity">
+    android:background="#fff">
 
-    <ImageView
+    <LinearLayout
         android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:background="@mipmap/backmain"/>
-</RelativeLayout>
+        android:layout_height="150dp"
+        android:gravity="center"
+        >
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/educarok"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="230dp"
+        android:background="#1f9746"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:text="Favor ingrese su usuario y contraseña para comenzar"
+            />
+
+        <EditText
+            android:layout_width="250dp"
+            android:layout_height="30dp"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:hint="Escribe tu ID de usuario"
+            android:background="#fff"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/txtLogin"/>
+
+        <EditText
+            android:layout_width="250dp"
+            android:layout_height="30dp"
+            android:hint="Escribe tu contraseña"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:width="250dp"
+            android:background="#fff"
+            android:id="@+id/txtPasswd"/>
+        <Button
+            android:layout_marginTop="10dp"
+            android:layout_width="255dp"
+            android:layout_height="wrap_content"
+            android:text="LOGIN"
+            android:background="@drawable/boton_redondo"
+            android:textColor="#fff"
+            android:onClick="Login"/>
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Recuperar contraseña"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textColor="#fff"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"></LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:background="@mipmap/idinlogochik"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_1782a45b6c88cf92ba05097bb3b660589124dc36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_35fdb7f752215431e40abdcadce981b2ed1e219d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_ce8c5a4aaf13c815bd26989a66d918ba2c4ad1ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_39d99eaad4e56a9d4695396d93346a7b847b0c4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_40c0f24be8aa61e118fdadbfd64c49c48c0d51d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_863fcf224425d5d5df19c774bdda9a26c2441794.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_a67a975ee283619e56be8485e6a59b01fd3375b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.0.0_b0cc2b70979ce86a380df229a7030efe62b799dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_26119768182d1b0fba44d4deceb6698efa0cea79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.6/d19acb6ed49b9c48228c0e5dff8071fce23be4b8/kotlin-stdlib-1.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d19acb6ed49b9c48228c0e5dff8071fce23be4b8">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.0.6_56ccbfa1aae1da752914025dcb427c2d524efe19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.6/3562c66f648480d3bd4f76cff722488ced13445b/kotlin-runtime-1.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3562c66f648480d3bd4f76cff722488ced13445b">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/kotlin-runtime-1.0.6_ce9b660564ef7a50b683c6e1e3548fa3003ffded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.5/b423532b5a3c949cbb799468f83bf566032fe98d/rxjava-1.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b423532b5a3c949cbb799468f83bf566032fe98d">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/rxjava-1.2.5_4babc4aa5b6ff46cbd55636358ec4eb4380c2253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_3c7df1c121c09add2f5822febd1604a9938ce1b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel/1.4.0/fdc3c6ff80b0d6e244250e201801f76e979049bd/fuel-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fdc3c6ff80b0d6e244250e201801f76e979049bd">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/fuel-1.4.0_3a2e9c07e65da59db7eaa11cef21c24a3e959e54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel-rxjava/1.4.0/59810892c8fbf600fa7e8b28e29c789376badfc6/fuel-rxjava-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="59810892c8fbf600fa7e8b28e29c789376badfc6">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/fuel-rxjava-1.4.0_6c035e3e743e06ca03a13724132ff2d8808a4731.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/exploded-aar/com.github.kittinunf.fuel/fuel-android/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="132cfc9ef1beff2d10889e0a6f4d420a00f7ed56">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/com.github.kittinunf.fuel-fuel-android-1.4.0_ab0e1a8c6609f5be18ef4ca8f69e15055df335d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kaminarikun/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.result/result/1.0.5/4fbdfc52e8d54d59acf831dfba6940a35c9667c8/result-1.0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4fbdfc52e8d54d59acf831dfba6940a35c9667c8">
+        <dex dex="/Users/Kaminarikun/Documents/android/Educa/app/build/intermediates/pre-dexed/debug/result-1.0.5_b10f4a66794e8ca1b14e99ef37f58d6686f66974.jar" />
+    </item>
+
+</items>
