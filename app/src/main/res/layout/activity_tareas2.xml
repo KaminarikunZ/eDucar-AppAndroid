@@ -9,6 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="net.tohemu.educa.Tareas2Activity">
 
+
     <WebView
         android:id="@+id/wbTareas"
         android:layout_width="match_parent"
