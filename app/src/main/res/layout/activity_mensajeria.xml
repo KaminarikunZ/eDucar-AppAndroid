@@ -47,25 +47,7 @@
             android:layout_marginRight="10dp"/>
 
     </LinearLayout>
-    <LinearLayout
-        android:layout_width="fill_parent"
-        android:layout_height="50dp"
-        android:gravity="center">
-        <TextView
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="Mensajeria"
-            android:gravity="center"
-            android:textColor="#125829"
-            android:textSize="20dp"/>
 
-        <TextView
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="jueves 20 de enero"
-            android:gravity="center"
-            android:textSize="20dp"/>
-    </LinearLayout>
 
 
     <RelativeLayout
@@ -73,67 +55,70 @@
         android:layout_height="25dp"
         android:background="#1F9746"
         android:layout_marginBottom="15dp">
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="fill_parent"
-            android:text="Reporte del alumno"
-            android:textColor="#fff"
-            android:gravity="center_vertical"
-            android:layout_marginLeft="15dp"/>
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
             android:text="07-01-15-10:52am"
             android:textColor="#fff"
-            android:layout_alignParentRight="true"
+            android:layout_alignParentLeft="true"
             android:layout_marginRight="10dp"
             android:gravity="center_vertical"
             android:layout_marginLeft="15dp"/>
 
-
-    </RelativeLayout>
-    <LinearLayout
-        android:layout_width="fill_parent"
-        android:layout_height="25dp"
-        android:background="#FFC000"
-        android:gravity="center">
-
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Mensaje"
-            android:textColor="#000"
-            android:textSize="15dp"/>
-    </LinearLayout>
+            android:layout_height="fill_parent"
+            android:text="Reporte del alumno"
+            android:textColor="#fff"
+            android:layout_alignParentRight="true"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="15dp"/>
+
+
+
+    </RelativeLayout>
+
 
     <EditText
         android:layout_width="fill_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
         android:text="Su hijo es un cabron y rompio todos los vidrios del salon, se le solicita en la escuela mañana a x hora para salvar a su hijo"
-        android:gravity="top"/>
-    <View
-        android:layout_width="fill_parent"
-        android:layout_height="5dp"
-        android:background="#125829"/>
+        android:gravity="top"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+
     <RelativeLayout
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp">
+
         <Button
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:text="&lt;"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="&lt;"
+        android:textSize="30dp"
+        android:textColor="#FFC000"
+        android:background="#ffff"/>
+
+        <Button
+            android:layout_width="30dp"
+            android:layout_height="30dp"
             android:textSize="30dp"
-            android:background="#FFC000"/>
+            android:textColor="#FFC000"
+            android:background="@mipmap/red_trash"
+            android:layout_centerInParent="true"/>
+
 
         <Button
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:text="&gt;"
             android:textSize="30dp"
+            android:textColor="#FFC000"
             android:layout_alignParentRight="true"
-            android:background="#FFC000"/>
+            android:background="#fff"/>
 
     </RelativeLayout>
     <RelativeLayout
